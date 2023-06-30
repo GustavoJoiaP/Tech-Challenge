@@ -1,5 +1,5 @@
 using System;
-
+using Dominio.ObjetosDeValor;
 
 namespace Dominio.Entidade
 {

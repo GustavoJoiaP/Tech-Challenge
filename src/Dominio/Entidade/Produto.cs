@@ -1,7 +1,6 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
+using Dominio.ObjetosDeValor;
 
 namespace Dominio.Entidade
 {
@@ -16,12 +15,12 @@ namespace Dominio.Entidade
 
         public Produto(Guid id, NomeProduto nome, String descricao, ValorProduto valor, Categoria categoriaId, String imagemUrl)
         {
-            Id = id;
-            Nome = nome;
-            Descricao = descricao;
-            Valor = valor;
-            CategoriaId = categoriaId;
-            ImagemUrl = imagemUrl;
+            this.Id = id;
+            this.Nome = nome;
+            this.Descricao = descricao;
+            this.Valor = valor;
+            this.CategoriaId = categoriaId;
+            this.ImagemUrl = imagemUrl;
         }
 
     }

@@ -2,7 +2,7 @@
 
 namespace TechChallenge
 {
-    class Programa
+    class Program
     {
         static void Main(string[] args)
         {

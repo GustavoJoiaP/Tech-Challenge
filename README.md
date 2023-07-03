@@ -3,7 +3,7 @@ Tech Challenge
 
 # Os Primeiros Passos do Projeto Tech Challange
  - Foi solicitado que façamos nesse primeiro modulo a documentação do projeto com base no modulo de DDD, onde foram apresentado os metodos de documentação como Domain Storytelling e Event Storming
- - Dentro ainda dessa primeira entrgra, é necessario fazermos o projeto de uma Lanchonete, a qual apresenta algumas regra de negocio que serão listadas abaixo:
+ - Dentro ainda dessa primeira entregra, é necessario fazermos o projeto de uma Lanchonete, a qual apresenta algumas regra de negocio que serão listadas abaixo:
 
 ## Pedido
  - Os clientes são apresentados a uma interface de seleção na qual podem optar por se identificarem via CPF, se cadastrarem com nome, e-mail ou não se identificar, podendo montar o combo na seguinte sequência, sendo todas elas opcionais:
